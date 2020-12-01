@@ -1,2 +1,2 @@
---> element.offsetTop = the distance between top of the element and the top of the window;
+--> element.offsetTop = the distance between top of the element and the top of the container;
 --> A debounce function = A function that used to minimize th eaximum rate of occurance;
